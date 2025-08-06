@@ -22,6 +22,15 @@ Vue3、Vue Router、Vuex、Element Plus、 Axios、ECharts、GSAP （高性能�
 <img width="2159" height="1178" alt="image" src="https://github.com/user-attachments/assets/38a486e1-d0ac-4eaa-9081-53f9aa2b9cc4" />
 订单管理页面
 <img width="2160" height="1214" alt="image" src="https://github.com/user-attachments/assets/0973affc-d204-4704-b4fb-70e4c5c8bb78" />
+优惠券管理页面
+<img width="2153" height="1218" alt="image" src="https://github.com/user-attachments/assets/fb630405-eed6-444a-b930-3bb59efc74fe" />
+规格管理页面
+<img width="2160" height="1232" alt="image" src="https://github.com/user-attachments/assets/1e89d389-c40d-4b3f-b28b-c68efa7e4b90" />
+商品详情管理
+<img width="2157" height="1212" alt="image" src="https://github.com/user-attachments/assets/4b82e046-4d92-4f6e-88e4-69de9be91988" />
+富文本编辑器
+<img width="964" height="1222" alt="image" src="https://github.com/user-attachments/assets/e2a7031c-68b1-4179-b1ae-fb3515ff0588" />
+
 
 
 
